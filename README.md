@@ -1,0 +1,1 @@
+# newquotes_generator.github.io
